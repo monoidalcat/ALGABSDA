@@ -104,12 +104,11 @@ spari un `merge` in remoto, e incroci le dita perché le chiavi combacino.
 Dietro la scintilla dei grafici patinati e delle slide luccicanti si nasconde un sistema traballante: notebook che esplodono in funzioni *one-off*, pipeline ETL che si reggono sulle note di commit criptiche, dashboard che vomitano KPI scollegati dal contesto.
 È bricolage puro, uno *script-by-script* che sopravvive finché non arriva il prossimo incidente.
 
-
-### *La data analytics non ha fondazione.**
+🚀 ### *La data analytics non ha fondazione.* 
 
 Non nel senso cartesiano, ma nel senso architettonico: è tutta superficie, un pavimento senza mura né pilastri. Le pipeline si affastellano come stanze improvvisate, corridoi liquidi che si estendono in orizzonti infiniti, senza un progetto che sorregga il disegno.
 
-### *Perché infilare la teoria delle categorie?**
+### *Perché infilare la teoria delle categorie?*
 
 Perché in questa kermesse di script improvvisati e dashboard sbiadite, *le categorie ti permettono di guardare oltre la superficie*. Non si tratta di una panoplia teorica, ma di una atto terapeutico vero e proprio: un modo per non annegare nel caos tremendo della data analytics.
 
@@ -117,7 +116,8 @@ Perché in questa kermesse di script improvvisati e dashboard sbiadite, *le cate
 
 Grazie ai *morfismi*, le trasformazioni smettono di essere rattoppi e diventano gesti stilizzati, con un minimo di eleganza geometrica tale da sopportare versioni diverse e librerie contrastanti.
 È come passare da un’anarchia di frammenti a un balletto di frecce, dove ogni passo è codificato, intelligibile, e ti salva dall’agonia infinita delle best practice.
-~~
+
+
 **La teoria delle categorie comincia male**: 
 ti sbatte in faccia il passaggio nudo.
 Non parla di oggetti, ma di come un oggetto diventa un altro.
